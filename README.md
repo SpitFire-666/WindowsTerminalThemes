@@ -2,11 +2,11 @@
 
 
 
-T3100
+<h1>T3100
 
 ![image](https://user-images.githubusercontent.com/38451588/120907888-c2352400-c6a8-11eb-84e4-590e980f77fe.png)
 
-
+`
 "colorScheme": "Toshiba",
 "commandline": "powershell.exe",
 "cursorShape": "vintage",
@@ -18,4 +18,4 @@ T3100
 "hidden": false,
 "name": "Windows PowerShell",
 "useAcrylic": false
-
+`
