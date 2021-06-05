@@ -2,7 +2,7 @@
 
 
 
-<h1>T3100
+<h1>Toshiba T3100
 
 ![image](https://user-images.githubusercontent.com/38451588/120907888-c2352400-c6a8-11eb-84e4-590e980f77fe.png)
 
@@ -19,3 +19,6 @@
 "name": "Windows PowerShell",
 "useAcrylic": false
 `
+
+<h1>Toshiba T5200
+  ![image](https://user-images.githubusercontent.com/38451588/120908132-b21e4400-c6aa-11eb-9798-fb548497e409.png)
