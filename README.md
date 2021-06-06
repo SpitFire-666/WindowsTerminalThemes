@@ -29,6 +29,7 @@ https://int10h.org/oldschool-pc-fonts/
 
 
 <h1>GRiD</h1>
+
 * Foreground/Cursor colour: #fffe0d
 * Background colour: #1d1d12
 
@@ -46,6 +47,9 @@ https://int10h.org/oldschool-pc-fonts/
 
 <h1>Commodore 64</h1>
 
+* Background colour: #0936E5
+* Foreground/Cursor colour: #4073FE
+
 <h1>TI-83</h1>
 
 
@@ -54,3 +58,8 @@ https://int10h.org/oldschool-pc-fonts/
 <h1>Ubuntu Terminal</h1>
 
 <h1>VFD</h1>
+
+<h1>Geelong Football Club</h1>
+
+* Foreground/Cursor colour:  #012a5b
+* Background colour: #f7f7f7
