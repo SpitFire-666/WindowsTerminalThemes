@@ -70,12 +70,23 @@ https://design.ubuntu.com/font/
 
 <h1>Ubuntu Terminal</h1>
 
+![image](https://user-images.githubusercontent.com/38451588/120911361-51066880-c6ca-11eb-88a7-aa966ba62b31.png)
+
+
 * Background colour: #300a24
 * Foreground/Cursor colour: #ffffff
 * Cursor Shape: FilledBox
 * 
 
-<h1>VFD</h1>
+<h1>Cash Register / VFD</h1>
+
+![image](https://user-images.githubusercontent.com/38451588/120911485-2c5ec080-c6cb-11eb-9cbf-28d6d8e96035.png)
+
+
+* Foreground/Cursor colour: #a5d2cc
+* Background colour: #685b39
+* 
+
 
 <h1>Geelong Football Club </h1>
 
