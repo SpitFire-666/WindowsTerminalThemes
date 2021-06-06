@@ -1,6 +1,6 @@
 # WindowsTerminalThemes
 
-Making the new Windows Terminal look ancient.
+Making the new Windows Terminal look old school 💾
 
 Install the old fonts here:
 https://int10h.org/oldschool-pc-fonts/
@@ -66,7 +66,7 @@ https://int10h.org/oldschool-pc-fonts/
 
 <h1>VFD</h1>
 
-<h1>Geelong Football Club</h1>
+<h1>Geelong Football Club </h1>
 
 * Foreground/Cursor colour:  #012a5b
 * Background colour: #f7f7f7
