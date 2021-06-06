@@ -20,9 +20,23 @@ https://int10h.org/oldschool-pc-fonts/
 
 ![image](https://user-images.githubusercontent.com/38451588/120908149-d9751100-c6aa-11eb-8163-cd8679595b4e.png)
 
-Text antialiasing: Aliased
-Cursor: Vintage
-Font size: 14
-Font Face: AcPlus ToshibaLx1 8x16
-Foreground/Cursor colour: #FF5718
-Background colour: #221914
+* Text antialiasing: Aliased
+* Cursor: Vintage
+* Font size: 14
+* Font Face: AcPlus ToshibaLx1 8x16
+* Foreground/Cursor colour: #FF5718
+* Background colour: #221914
+
+
+<h1>GRiD</h1>
+* Foreground/Cursor colour: #fffe0d
+* Background colour: #1d1d12
+
+<h1>IBM PC MS-DOS</h1>
+
+![image](https://user-images.githubusercontent.com/38451588/120908829-d0d40900-c6b1-11eb-9d0e-72ca25f839a8.png)
+
+
+* Foreground/Cursor colour: #a5a5a5
+* Background colour: #000000
+* Font Face: Ac437 IBM VGA 9x16
