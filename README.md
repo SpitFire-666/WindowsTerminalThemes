@@ -52,6 +52,13 @@ https://int10h.org/oldschool-pc-fonts/
 
 <h1>TI-83</h1>
 
+![image](https://user-images.githubusercontent.com/38451588/120910368-b99d1780-c6c1-11eb-86b1-2e39d95e85fb.png)
+
+* Background colour: #8FA99E
+* Foreground/Cursor colour: #1B090A
+* Font Face: TI-83 Plus"
+* Font weight: Medium
+* Cursor Shape: filledBox
 
 <h1>IBM AS/400 (iSeries)</h1>
 
