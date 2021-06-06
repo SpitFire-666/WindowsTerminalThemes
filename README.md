@@ -8,6 +8,9 @@ https://int10h.org/oldschool-pc-fonts/
 TI-83 Plus font:
 https://www.wfonts.com/font/ti-83-plus
 
+Ubuntu Font:
+https://design.ubuntu.com/font/
+
 <h1>Toshiba T3100</h1>
 
 ![image](https://user-images.githubusercontent.com/38451588/120908505-581f7d80-c6ae-11eb-8d31-31e0d814b7c0.png)
@@ -24,7 +27,7 @@ https://www.wfonts.com/font/ti-83-plus
 ![image](https://user-images.githubusercontent.com/38451588/120908149-d9751100-c6aa-11eb-8163-cd8679595b4e.png)
 
 * Text antialiasing: Aliased
-* Cursor: Vintage
+* Cursor Shape: Vintage
 * Font size: 14
 * Font Face: AcPlus ToshibaLx1 8x16
 * Foreground/Cursor colour: #FF5718
@@ -66,6 +69,11 @@ https://www.wfonts.com/font/ti-83-plus
 <h1>IBM AS/400 (iSeries)</h1>
 
 <h1>Ubuntu Terminal</h1>
+
+* Background colour: #300a24
+* Foreground/Cursor colour: #ffffff
+* Cursor Shape: FilledBox
+* 
 
 <h1>VFD</h1>
 
