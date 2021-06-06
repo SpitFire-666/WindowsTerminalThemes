@@ -40,3 +40,10 @@ https://int10h.org/oldschool-pc-fonts/
 * Foreground/Cursor colour: #a5a5a5
 * Background colour: #000000
 * Font Face: Ac437 IBM VGA 9x16
+
+<h1>LCD Dot Matrix Calculator</h1>
+
+
+<h1>Commodore 64</h1>
+
+<h1>TI-83</h1>
