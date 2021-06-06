@@ -1,6 +1,6 @@
 # WindowsTerminalThemes
 
-Making the new Windows Terminal look old school 💾
+💾 Making the new Windows Terminal look old school 💾
 
 Install the old fonts here:
 https://int10h.org/oldschool-pc-fonts/
