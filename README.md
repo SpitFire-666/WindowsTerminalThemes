@@ -87,6 +87,15 @@ https://design.ubuntu.com/font/
 * Background colour: #685b39
 * 
 
+<h1>Vintage Green</h1>
+
+![image](https://user-images.githubusercontent.com/38451588/120974256-4673ce00-c7b3-11eb-9dd5-fcfdf1ff383a.png)
+
+* Foreground/Cursor colour: #05FF7F
+* Background colour: #020F01
+* Cursor Shape: FilledBox
+* retroterminaleffects: True
+* Fontface: OCR A
 
 <h1>Geelong Football Club </h1>
 
