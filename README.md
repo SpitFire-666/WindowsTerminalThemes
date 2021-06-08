@@ -13,7 +13,7 @@ https://design.ubuntu.com/font/
 
 <h1>Toshiba T3100</h1>
 
-My first computer 😎
+My first computer 💪
 
 ![image](https://user-images.githubusercontent.com/38451588/120908505-581f7d80-c6ae-11eb-8d31-31e0d814b7c0.png)
 
@@ -79,6 +79,16 @@ My first computer 😎
 * Cursor Shape: filledBox
 
 <h1>IBM AS/400 (iSeries)</h1>
+
+![image](https://user-images.githubusercontent.com/38451588/121178661-1c4d0980-c8a2-11eb-9aec-4d2e510950f8.png)
+
+
+
+* Font Face: IBM 3270
+* Background colour: #010101
+* Foreground/Cursor colour: #63D66E
+* Cursor Shape: FilledBox
+
 
 <h1>Ubuntu Terminal</h1>
 
