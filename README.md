@@ -61,6 +61,7 @@ My first computer 😎
 * Foreground/Cursor colour:#194300
 * Background colour: #8c8e00
 * Cursor Shape: filledBox
+* Font: Px437 HP 100LX 6x8
 
 <h1>Commodore 64</h1>
 
@@ -94,6 +95,7 @@ My first computer 😎
 ![image](https://user-images.githubusercontent.com/38451588/120911485-2c5ec080-c6cb-11eb-9cbf-28d6d8e96035.png)
 
 ALL CAPS, ALL THE TIME!
+
 * Foreground/Cursor colour: #a5d2cc
 * Background colour: #685b39
 * Cursor Shape: FilledBox
