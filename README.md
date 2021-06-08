@@ -76,13 +76,13 @@ https://design.ubuntu.com/font/
 * Background colour: #300a24
 * Foreground/Cursor colour: #ffffff
 * Cursor Shape: FilledBox
-* 
+* Font Face: Terminus
 
 <h1>Cash Register / VFD</h1>
 
 ![image](https://user-images.githubusercontent.com/38451588/120911485-2c5ec080-c6cb-11eb-9cbf-28d6d8e96035.png)
 
-
+ALL CAPS, ALL THE TIME!
 * Foreground/Cursor colour: #a5d2cc
 * Background colour: #685b39
 * Cursor Shape: FilledBox
