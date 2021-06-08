@@ -114,3 +114,10 @@ ALL CAPS, ALL THE TIME!
 
 * Foreground/Cursor colour:  #012a5b
 * Background colour: #f7f7f7
+
+
+<h1>Dot Matrix Printer (welding helmet advised) </h1>
+
+![image](https://user-images.githubusercontent.com/38451588/121177358-a2685080-c8a0-11eb-8653-d85e164c8b1f.png)
+
+Just coz you can, doesn't mean you should...
