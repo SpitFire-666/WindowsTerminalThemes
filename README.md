@@ -24,6 +24,8 @@ https://design.ubuntu.com/font/
 
 <h1>Toshiba T5200</h1>
 
+![image](https://user-images.githubusercontent.com/38451588/121173732-7f3ba200-c89c-11eb-9ecb-b4e783c14ffe.png)
+
 ![image](https://user-images.githubusercontent.com/38451588/120908149-d9751100-c6aa-11eb-8163-cd8679595b4e.png)
 
 * Text antialiasing: Aliased
