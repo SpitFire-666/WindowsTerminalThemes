@@ -13,6 +13,7 @@ https://design.ubuntu.com/font/
 
 <h1>Toshiba T3100</h1>
 
+My first computer 
 ![image](https://user-images.githubusercontent.com/38451588/120908505-581f7d80-c6ae-11eb-8d31-31e0d814b7c0.png)
 
 * Text antialiasing: Aliased
