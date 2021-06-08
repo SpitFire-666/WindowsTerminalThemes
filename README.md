@@ -53,6 +53,15 @@ My first computer 😎
 <h1>LCD Dot Matrix Calculator</h1>
 
 
+<h1>Nintendo Gameboy (no backlight )</h1>
+
+![image](https://user-images.githubusercontent.com/38451588/121176006-13a70400-c89f-11eb-9785-eef7eb771e70.png)
+
+
+* Foreground/Cursor colour:#194300
+* Background colour: #8c8e00
+* Cursor Shape: filledBox
+
 <h1>Commodore 64</h1>
 
 * Background colour: #0936E5
