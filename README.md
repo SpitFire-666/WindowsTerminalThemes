@@ -78,6 +78,12 @@ My first computer 💪
 * Font weight: Medium
 * Cursor Shape: filledBox
 
+
+<h1>DEC VT320 terminal</h1>
+
+![image](https://user-images.githubusercontent.com/38451588/121357826-74087500-c975-11eb-86a5-e66a74b1689d.png)
+
+
 <h1>IBM AS/400 (iSeries)</h1>
 
 ![image](https://user-images.githubusercontent.com/38451588/121178661-1c4d0980-c8a2-11eb-9aec-4d2e510950f8.png)
