@@ -35,6 +35,12 @@ My first computer 💪
 * Foreground/Cursor colour: #FF5718
 * Background colour: #221914
 
+<h1>MS-DOS QBasic/EDIT</h1>
+
+* Background colour: #0001ab
+* Foreground/cursor colour: #a8a8a8
+* Cursor shape: Underline
+
 
 <h1>GRiD</h1>
 
@@ -49,6 +55,7 @@ My first computer 💪
 * Foreground/Cursor colour: #a5a5a5
 * Background colour: #000000
 * Font Face: Ac437 IBM VGA 9x16
+* Cursor shape: Underline
 
 <h1>LCD Dot Matrix Calculator</h1>
 
