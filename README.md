@@ -151,6 +151,12 @@ ALL CAPS, ALL THE TIME!
 * Background colour: #f7f7f7
 
 
+<h1>PuTTy</h1>
+
+![image](https://user-images.githubusercontent.com/38451588/121528323-b1850500-ca3e-11eb-8ae8-97604be3ec8d.png)
+
+🤮 Courier New really is the worst font
+
 <h1>Dot Matrix Printer (welding helmet advised ☀😎) </h1>
 
 ![image](https://user-images.githubusercontent.com/38451588/121177358-a2685080-c8a0-11eb-8653-d85e164c8b1f.png)
