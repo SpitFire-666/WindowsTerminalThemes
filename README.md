@@ -38,6 +38,9 @@ My first computer 💪
 
 <h1>Commodore 64</h1>
 
+![image](https://user-images.githubusercontent.com/38451588/121527226-8817a980-ca3d-11eb-8914-1442b1a017c6.png)
+
+
 * Background colour: #0936E5
 * Foreground/Cursor colour: #4073FE
 
@@ -66,14 +69,15 @@ My first computer 💪
 * Background colour: #000000
 * Font Face: Ac437 IBM VGA 9x16
 * Cursor shape: Underline
+* Font Size: 16
 
 <h1>MS-DOS QBasic/EDIT</h1>
 
 ![image](https://user-images.githubusercontent.com/38451588/121464106-98586600-c9f6-11eb-8858-bf8ac866de47.png)
 
 
-* Background colour: #0001ab
-* Foreground/cursor colour: #a8a8a8
+* Background colour: #a8a8a8
+* Foreground/cursor colour: #0001ab 
 * Cursor shape: Underline
 
 
