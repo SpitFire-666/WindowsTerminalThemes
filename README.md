@@ -2,7 +2,8 @@
 
 💾 Making the new Windows Terminal look old school 💾
 
-Install the old fonts here:
+Install "The Ultimate Oldschool PC Font Pack" fonts here:
+
 https://int10h.org/oldschool-pc-fonts/
 
 TI-83 Plus font:
