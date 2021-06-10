@@ -36,6 +36,37 @@ My first computer 💪
 * Foreground/Cursor colour: #FF5718
 * Background colour: #221914
 
+<h1>Commodore 64</h1>
+
+* Background colour: #0936E5
+* Foreground/Cursor colour: #4073FE
+
+<h1>DEC VT320 terminal</h1>
+
+![image](https://user-images.githubusercontent.com/38451588/121357826-74087500-c975-11eb-86a5-e66a74b1689d.png)
+
+* Foreground/Cursor colour: #E0DE08
+* Background colour: #2B2B2B
+* Font Face: VT323
+* Cursor shape: Solid box
+* Retro Terminal Effects: ON
+
+
+<h1>GRiD</h1>
+
+* Foreground/Cursor colour: #fffe0d
+* Background colour: #1d1d12
+
+<h1>MS-DOS</h1>
+
+![image](https://user-images.githubusercontent.com/38451588/120908829-d0d40900-c6b1-11eb-9d0e-72ca25f839a8.png)
+
+
+* Foreground/Cursor colour: #a5a5a5
+* Background colour: #000000
+* Font Face: Ac437 IBM VGA 9x16
+* Cursor shape: Underline
+
 <h1>MS-DOS QBasic/EDIT</h1>
 
 ![image](https://user-images.githubusercontent.com/38451588/121464106-98586600-c9f6-11eb-8858-bf8ac866de47.png)
@@ -45,21 +76,6 @@ My first computer 💪
 * Foreground/cursor colour: #a8a8a8
 * Cursor shape: Underline
 
-
-<h1>GRiD</h1>
-
-* Foreground/Cursor colour: #fffe0d
-* Background colour: #1d1d12
-
-<h1>IBM PC MS-DOS</h1>
-
-![image](https://user-images.githubusercontent.com/38451588/120908829-d0d40900-c6b1-11eb-9d0e-72ca25f839a8.png)
-
-
-* Foreground/Cursor colour: #a5a5a5
-* Background colour: #000000
-* Font Face: Ac437 IBM VGA 9x16
-* Cursor shape: Underline
 
 <h1>LCD Dot Matrix Calculator</h1>
 
@@ -74,11 +90,6 @@ My first computer 💪
 * Cursor Shape: filledBox
 * Font: Px437 HP 100LX 6x8
 
-<h1>Commodore 64</h1>
-
-* Background colour: #0936E5
-* Foreground/Cursor colour: #4073FE
-
 <h1>TI-83</h1>
 
 ![image](https://user-images.githubusercontent.com/38451588/120910368-b99d1780-c6c1-11eb-86b1-2e39d95e85fb.png)
@@ -90,9 +101,6 @@ My first computer 💪
 * Cursor Shape: filledBox
 
 
-<h1>DEC VT320 terminal</h1>
-
-![image](https://user-images.githubusercontent.com/38451588/121357826-74087500-c975-11eb-86a5-e66a74b1689d.png)
 
 
 <h1>IBM AS/400 (iSeries)</h1>
