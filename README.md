@@ -38,6 +38,9 @@ My first computer 💪
 
 <h1>MS-DOS QBasic/EDIT</h1>
 
+![image](https://user-images.githubusercontent.com/38451588/121464106-98586600-c9f6-11eb-8858-bf8ac866de47.png)
+
+
 * Background colour: #0001ab
 * Foreground/cursor colour: #a8a8a8
 * Cursor shape: Underline
