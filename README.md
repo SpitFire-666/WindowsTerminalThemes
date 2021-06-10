@@ -2,15 +2,9 @@
 
 💾 Making the new Windows Terminal look old school 💾
 
-Install "The Ultimate Oldschool PC Font Pack" fonts here:
-
-https://int10h.org/oldschool-pc-fonts/
-
-TI-83 Plus font:
-https://www.wfonts.com/font/ti-83-plus
-
-Ubuntu Font:
-https://design.ubuntu.com/font/
+Ultimate Oldschool PC Font Pack fonts | https://int10h.org/oldschool-pc-fonts/
+TI-83 Plus font | https://www.wfonts.com/font/ti-83-plus
+Ubuntu Font: | https://design.ubuntu.com/font/
 
 <h1>Toshiba T3100</h1>
 
