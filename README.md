@@ -1,6 +1,8 @@
 # WindowsTerminalThemes
 
-💾 Making the new Windows Terminal look old school 💾
+💾 Making the new Windows Terminal look truly retro 💾
+
+Windows Terminal (Windows 10 v1903 or later) | https://github.com/microsoft/terminal
 
 Ultimate Oldschool PC Font Pack fonts | https://int10h.org/oldschool-pc-fonts/
 
