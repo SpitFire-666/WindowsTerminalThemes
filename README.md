@@ -137,6 +137,11 @@ ALL CAPS, ALL THE TIME!
 * Background colour: #685b39
 * Cursor Shape: FilledBox
 
+<h1>CGA</h1>
+
+https://en.wikipedia.org/wiki/Color_Graphics_Adapter#Composite_output
+
+
 <h1>Vintage Green</h1>
 
 ![image](https://user-images.githubusercontent.com/38451588/120974256-4673ce00-c7b3-11eb-9dd5-fcfdf1ff383a.png)
@@ -147,11 +152,21 @@ ALL CAPS, ALL THE TIME!
 * retroterminaleffects: True
 * Fontface: OCR A
 
+
+<h1>Typewriter 📜</h1>
+
+<h1>HP 95LX</h1>
+
+https://en.wikipedia.org/wiki/HP_95LX
+
+<h1>MacOS </h1>
+
 <h1>Geelong Football Club </h1>
 
 * Foreground/Cursor colour:  #012a5b
 * Background colour: #f7f7f7
 
+<h1>Nokia 3310 📱</h1>
 
 <h1>PuTTy</h1>
 
