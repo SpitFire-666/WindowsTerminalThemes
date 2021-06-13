@@ -152,6 +152,10 @@ https://en.wikipedia.org/wiki/Color_Graphics_Adapter#Composite_output
 * retroterminaleffects: True
 * Fontface: OCR A
 
+<h1>PowerShell Legacy</h1>
+
+* Background colour: #052653
+* Font face: Raster Fonts 8x12
 
 <h1>Typewriter 📜</h1>
 
