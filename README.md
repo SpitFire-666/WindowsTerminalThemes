@@ -146,6 +146,8 @@ https://en.wikipedia.org/wiki/Color_Graphics_Adapter#Composite_output
 
 ![image](https://user-images.githubusercontent.com/38451588/120974256-4673ce00-c7b3-11eb-9dd5-fcfdf1ff383a.png)
 
+
+
 * Foreground/Cursor colour: #05FF7F
 * Background colour: #020F01
 * Cursor Shape: FilledBox
@@ -154,8 +156,13 @@ https://en.wikipedia.org/wiki/Color_Graphics_Adapter#Composite_output
 
 <h1>PowerShell Legacy</h1>
 
+![image](https://user-images.githubusercontent.com/38451588/121990740-9f5dea80-cde1-11eb-916c-168848669016.png)
+
+Trigger warning! Spit in the face of progress with this theme 😁
+
 * Background colour: #052653
-* Font face: Raster Fonts 8x12
+* Foreground/cursor colour: #E5F6FF
+* Font face: Raster Fonts 8x12 | https://fonts2u.com/the-one-true-font-system-8x12-regular.font
 
 <h1>Typewriter 📜</h1>
 
